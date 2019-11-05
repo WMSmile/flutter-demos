@@ -10,18 +10,18 @@
 * 状态保持
 * 开屏闪屏
 
-![](screen/1.gif)
+![image](screen/1.gif)
 
 
 ### keep_alive_app 
 状态保持
 
-![](screen/3.gif)
+![image](screen/3.gif)
 
 
 ### tabbar_add_app
 
-![](screen/4.jpg)
+![image](screen/4.jpg)
 
 ### tabbar_app
 
@@ -29,14 +29,13 @@
 type:BottomNavigationBarType.fixed //文字大小风格
 ```
 
-![](screen/2.jpg)
+![image](screen/2.jpg)
 
 
 ```
-          type:BottomNavigationBarType.shifting //隐藏文字风格
-          
+type:BottomNavigationBarType.shifting //隐藏文字风格        
 ```
-![](screen/3.jpg)
+![image](./screen/3.jpg)
 
 ### github_client_app
 
