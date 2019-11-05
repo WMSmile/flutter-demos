@@ -1,0 +1,1 @@
+export 'package:flutter_demos_app/configs/asset.dart';
