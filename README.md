@@ -21,7 +21,7 @@
 
 ### tabbar_add_app
 
-![image](screen/4.jpg)
+![image](screen/1.jpg)
 
 ### tabbar_app
 
@@ -36,6 +36,10 @@ type:BottomNavigationBarType.fixed //文字大小风格
 type:BottomNavigationBarType.shifting //隐藏文字风格        
 ```
 ![image](screen/3.jpg)
+
+### frosted_glass_app
+
+![image](screen/4.jpg)
 
 ### github_client_app
 
