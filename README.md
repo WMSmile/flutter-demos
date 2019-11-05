@@ -35,7 +35,7 @@ type:BottomNavigationBarType.fixed //文字大小风格
 ```
 type:BottomNavigationBarType.shifting //隐藏文字风格        
 ```
-![image](./screen/3.jpg)
+![image](screen/3.jpg)
 
 ### github_client_app
 
